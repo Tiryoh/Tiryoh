@@ -1,4 +1,4 @@
-<!--[![Tiryoh's github stats](https://github-readme-stats.vercel.app/api?username=Tiryoh&show_icons=true)](https://github.com/Tiryoh/Tiryoh)-->
+[![Tiryoh's github stats](https://github-readme-stats.vercel.app/api?username=Tiryoh&show_icons=true)](https://github.com/Tiryoh/Tiryoh)
 
 <!--
 ### Hi there 👋
