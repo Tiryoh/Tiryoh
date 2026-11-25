@@ -14,7 +14,7 @@ ROS/Robotics enthusiast | Open Source Developer
 - [ros-launch-analyzer](https://github.com/Tiryoh/ros-launch-analyzer) - ROS1 launch file dependency graph visualizer
 - [rosbag-analyzer-web](https://github.com/Tiryoh/rosbag-analyzer-web) - Web-based rosbag rosout/diagnositcs analyzer
 - [rgw](https://github.com/Tiryoh/rgw) - Git worktree-based ROS workspace symlink manager
-- [timed_roslaunch](https://github.com/Tiryoh/timed_roslaunch) - Delay the launch of a roslaunch file
+- [timed_roslaunch](https://github.com/Tiryoh/timed_roslaunch) - Delay the launch of a roslaunch file (original author: [MoriKen254](https://github.com/MoriKen254/))
 
 ### ⚙️ GitHub Actions
 - [gha-jobid-action](https://github.com/Tiryoh/gha-jobid-action) - Get workflow Job URL and ID
